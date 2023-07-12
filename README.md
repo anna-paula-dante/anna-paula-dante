@@ -63,7 +63,7 @@
   </strong></h2>
 
 <p align="left">
-<h2>⭐️Contacts:</h2>
+<h2>⭐️Connect with me:</h2>
 
 <div>
   <a href="mailto:anajornalistasbc@gmail.com"><img
