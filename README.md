@@ -19,7 +19,7 @@
   Dante, front-end developer.</b> <br>
   Programming came as a gift in my life, and I ended up falling in love with it.</b><br>
   I have experience in:</b><br>
-  HTML, CSS, JavaScript, Git, Node, React, Typescript, Styled Components, SASS.</b><br>
+  JavaScript, Git, Node, React, Typescript, Styled Components, SASS.</b><br>
   I've even done several projects with these technologies.</b><br>
   I continue to seek more and more to learn new technologies and put them into practice, in order to contribute to
   improvements, as well as my professional development</b><br>
