@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/ana_dante"><img
-      src="https://readme-typing-svg.demolab.com?stack=Fira+Code&size=30&duration=2000&pause=100&color=318B4D&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Hello%2C+Word!;I'm+Ana+Paula+Dante;A+Full-Stack+Developer"
+      src="https://readme-typing-svg.demolab.com?stack=Fira+Code&size=30&duration=2000&pause=100&color=318B4D&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Hello%2C+Word!;I'm+Ana+Paula+Brajão;A+Full-Stack+Developer"
       alt="Typing SVG" /></a>
   </a>
   <br />
