@@ -6,7 +6,7 @@
   <br />
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/ana-dante/count.svg" />
+  <img src="https://profile-counter.glitch.me/ana-brajão/count.svg" />
 </p>
 
 <h1 align="right">Hi! Nice to meet you<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="8%">
@@ -16,7 +16,7 @@
     <p align="right">Welcome to my page!
   </strong></h2>
 <p align="right"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">This is me, Ana Paula
-  Dante, full stack developer.</b> <br>
+  Brajão, full stack developer.</b> <br>
   Programming came as a gift in my life, and I ended up falling in love with it.</b><br>
   I have experience in:</b><br>
   JavaScript, Git, Node, React, Typescript, Styled Components, SASS.</b><br>
@@ -66,7 +66,7 @@
 <h2>⭐️Connect with me:</h2>
 
 <div>
-  <a href="mailto:anajornalistasbc@gmail.com"><img
+  <a href="mailto:programadora.anabrajao@gmail.com"><img
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
       target="_blank"></a>
   <a href="https://www.linkedin.com/in/ana-paula-b-005413168/" target="_blank"><img
