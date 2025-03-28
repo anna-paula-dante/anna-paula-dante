@@ -1,12 +1,12 @@
 <p align="center">
-  <a href="https://github.com/ana_brajão"><img
-      src="https://readme-typing-svg.demolab.com?stack=Fira+Code&size=30&duration=2000&pause=100&color=318B4D&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Hello%2C+Word!;I'm+Ana+Paula+Brajão;A+Full-Stack+Developer"
+  <a href="https://github.com/anna-paula-dante"><img
+      src="https://readme-typing-svg.demolab.com?stack=Fira+Code&size=30&duration=2000&pause=100&color=318B4D&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Hello%2C+Word!;I'm+Anna+Paula+Dante;A+Full-Stack+Developer"
       alt="Typing SVG" /></a>
   </a>
   <br />
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/ana-brajão/count.svg" />
+  <img src="https://profile-counter.glitch.me/anna-dante/count.svg" />
 </p>
 
 <h1 align="right">Hi! Nice to meet you<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="8%">
@@ -15,11 +15,11 @@
 <h2><strong>
     <p align="right">Welcome to my page!
   </strong></h2>
-<p align="right"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">This is me, Ana Paula
-  Brajão, full stack developer.</b> <br>
+<p align="right"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">This is me, Anna Paula
+  Dante, full stack developer.</b> <br>
   Programming came as a gift in my life, and I ended up falling in love with it.</b><br>
   I have experience in:</b><br>
-  JavaScript, Git, Node, React, Typescript, Styled Components, SASS.</b><br>
+  JavaScript, Nest, Next, Node, React, Typescript, Styled Components, Git.</b><br>
   I've even done several projects with these technologies.</b><br>
   I continue to seek more and more to learn new technologies and put them into practice, in order to contribute to
   improvements, as well as my professional development</b><br>
@@ -32,7 +32,6 @@
 <p align="left">
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"> </code>
@@ -66,13 +65,13 @@
 <h2>⭐️Connect with me:</h2>
 
 <div>
-  <a href="mailto:programadora.anabrajao@gmail.com"><img
+  <a href="mailto:programadora.anadante@gmail.com"><img
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
       target="_blank"></a>
   <a href="https://www.linkedin.com/in/ana-paula-b-005413168/" target="_blank"><img
       src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       target="_blank"></a>
-  <a href="https://github.com/ana-dante" target="_blank"><img
+  <a href="https://github.com/anna-paula-dante" target="_blank"><img
       src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=GitHub&logoColor=white"
       target="_blank"></a>
 </div>
