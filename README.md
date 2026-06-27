@@ -1,12 +1,17 @@
 <p align="center">
-  <a href="https://github.com/anna-paula-dante"><img
-      src="https://readme-typing-svg.demolab.com?stack=Fira+Code&size=30&duration=2000&pause=100&color=318B4D&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Hello%2C+Word!;I'm+Anna+Paula+Dante;A+Full-Stack+Developer"
-      alt="Typing SVG" /></a>
+  <a href="https://github.com/anna-paula-dante">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=100&color=318B4D&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Hello%2C+World!;I'm+Anna+Paula+Dante;A+Full-Stack+Developer"
+      alt="Typing SVG"
+    />
   </a>
-  <br />
+</p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/anna-dante/count.svg" />
+  <img
+    src="https://komarev.com/ghpvc/?username=anna-paula-dante&color=318B4D&style=flat-square&label=Profile+views"
+    alt="Profile views"
+  />
 </p>
 
 <h1 align="right">Hi! Nice to meet you<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="8%">
